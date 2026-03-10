@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\RealEstateApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE2FA17-B914-1BD9-7B53-ED4CB4B791FE}|RealEstateApi\\RealEstateApi.csproj|d:\\dotnet\\realestateapi\\realestateapi\\controllers\\userpropertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE2FA17-B914-1BD9-7B53-ED4CB4B791FE}|RealEstateApi\\RealEstateApi.csproj|solutionrelative:realestateapi\\controllers\\userpropertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE2FA17-B914-1BD9-7B53-ED4CB4B791FE}|RealEstateApi\\RealEstateApi.csproj|d:\\dotnet\\realestateapi\\realestateapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE2FA17-B914-1BD9-7B53-ED4CB4B791FE}|RealEstateApi\\RealEstateApi.csproj|solutionrelative:realestateapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE2FA17-B914-1BD9-7B53-ED4CB4B791FE}|RealEstateApi\\RealEstateApi.csproj|d:\\dotnet\\realestateapi\\realestateapi\\controllers\\usercategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE2FA17-B914-1BD9-7B53-ED4CB4B791FE}|RealEstateApi\\RealEstateApi.csproj|solutionrelative:realestateapi\\controllers\\usercategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE2FA17-B914-1BD9-7B53-ED4CB4B791FE}|RealEstateApi\\RealEstateApi.csproj|d:\\dotnet\\realestateapi\\realestateapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE2FA17-B914-1BD9-7B53-ED4CB4B791FE}|RealEstateApi\\RealEstateApi.csproj|solutionrelative:realestateapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE2FA17-B914-1BD9-7B53-ED4CB4B791FE}|RealEstateApi\\RealEstateApi.csproj|d:\\dotnet\\realestateapi\\realestateapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE2FA17-B914-1BD9-7B53-ED4CB4B791FE}|RealEstateApi\\RealEstateApi.csproj|solutionrelative:realestateapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE2FA17-B914-1BD9-7B53-ED4CB4B791FE}|RealEstateApi\\RealEstateApi.csproj|d:\\dotnet\\realestateapi\\realestateapi\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE2FA17-B914-1BD9-7B53-ED4CB4B791FE}|RealEstateApi\\RealEstateApi.csproj|solutionrelative:realestateapi\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE2FA17-B914-1BD9-7B53-ED4CB4B791FE}|RealEstateApi\\RealEstateApi.csproj|d:\\dotnet\\realestateapi\\realestateapi\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE2FA17-B914-1BD9-7B53-ED4CB4B791FE}|RealEstateApi\\RealEstateApi.csproj|solutionrelative:realestateapi\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DotNet\\RealEstateApi\\RealEstateApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RealEstateApi\\Models\\User.cs",
+              "ToolTip": "D:\\DotNet\\RealEstateApi\\RealEstateApi\\Models\\User.cs",
+              "RelativeToolTip": "RealEstateApi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T12:22:47.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserPropertyController.cs",
+              "DocumentMoniker": "D:\\DotNet\\RealEstateApi\\RealEstateApi\\Controllers\\UserPropertyController.cs",
+              "RelativeDocumentMoniker": "RealEstateApi\\Controllers\\UserPropertyController.cs",
+              "ToolTip": "D:\\DotNet\\RealEstateApi\\RealEstateApi\\Controllers\\UserPropertyController.cs",
+              "RelativeToolTip": "RealEstateApi\\Controllers\\UserPropertyController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwD0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T12:17:04.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserCategoryController.cs",
+              "DocumentMoniker": "D:\\DotNet\\RealEstateApi\\RealEstateApi\\Controllers\\UserCategoryController.cs",
+              "RelativeDocumentMoniker": "RealEstateApi\\Controllers\\UserCategoryController.cs",
+              "ToolTip": "D:\\DotNet\\RealEstateApi\\RealEstateApi\\Controllers\\UserCategoryController.cs",
+              "RelativeToolTip": "RealEstateApi\\Controllers\\UserCategoryController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T12:03:01.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\RealEstateApi\\RealEstateApi\\Program.cs",
+              "RelativeDocumentMoniker": "RealEstateApi\\Program.cs",
+              "ToolTip": "D:\\DotNet\\RealEstateApi\\RealEstateApi\\Program.cs",
+              "RelativeToolTip": "RealEstateApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:01:35.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\DotNet\\RealEstateApi\\RealEstateApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "RealEstateApi\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\DotNet\\RealEstateApi\\RealEstateApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "RealEstateApi\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAUwH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T03:57:23.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Property.cs",
+              "DocumentMoniker": "D:\\DotNet\\RealEstateApi\\RealEstateApi\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "RealEstateApi\\Models\\Property.cs",
+              "ToolTip": "D:\\DotNet\\RealEstateApi\\RealEstateApi\\Models\\Property.cs",
+              "RelativeToolTip": "RealEstateApi\\Models\\Property.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T18:37:52.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PropertyController.cs",
+              "DocumentMoniker": "D:\\DotNet\\RealEstateApi\\RealEstateApi\\Controllers\\PropertyController.cs",
+              "RelativeDocumentMoniker": "RealEstateApi\\Controllers\\PropertyController.cs",
+              "ToolTip": "D:\\DotNet\\RealEstateApi\\RealEstateApi\\Controllers\\PropertyController.cs",
+              "RelativeToolTip": "RealEstateApi\\Controllers\\PropertyController.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAowIwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T14:48:31.583Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
